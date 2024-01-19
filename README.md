@@ -38,6 +38,37 @@
 #### Symptoms medua Url:
 ![symptoms media url](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/a1e6a758-0086-4ded-a2a7-4474ddf10002)
 
+## IBS project Screenshots:
+#### Homepage:
+![About page](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/3f8c2966-9d1b-4a96-b7d9-049244a6a6ee)
+#### About page:
+![About page](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/7b847426-a864-40bd-b713-7f1f2f7309f4)
+#### Symptoms page:
+![Symptoms page](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/b6979937-3023-49ac-a75e-fe2c844ead88)
+#### Risk Factors ibs:
+![Risk Factors page](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/19905204-e1b1-4213-bb5d-77d546eb212c)
+#### Diet Quotes:
+![diet quotes](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/37ee25a4-0b1e-448f-9d99-dcf5310fa69a)
+#### Ibs Media(ffrom Azure BLOB Storage):
+![media about ibs blob stroage](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/ae1ec3b4-f816-47a5-bb1a-0987e39ae677)
+#### Azure Ai bot:
+![Azure ai bot](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/ce2ab501-c0f7-4638-89cf-1d259e4c8a0a)
+![fun1](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/b692a0a2-63dc-4f75-8abb-f9e6dbe724e4)
+![fun2](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/6cf76450-232e-4117-acb8-0476ba13a5d1)
+![fun3](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/4706b700-5fe5-4fcd-97fb-097debd46e7f)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Thank you....
+
+
+
+
+
+
+
+
+
+
+
 
 
 
