@@ -7,7 +7,7 @@
 ## Project Demo Liks:
 ### Azure Static web app page: https://nice-ocean-03e7b1e10.4.azurestaticapps.net
 ### Youtube Deom Video Link: 
-### Github page link: 
+### Github page link: https://harshinisistla10.github.io/FRT-ibs/
 ### Azure Storage screen shots:
 #### Resources Group:
 ![resources group](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/ffee60a7-0a30-4e11-93bb-76fc798305ac)
