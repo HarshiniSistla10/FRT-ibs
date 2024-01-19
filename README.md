@@ -29,6 +29,17 @@
 ![bot channels](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/341e22fd-0f82-4e4c-8862-c2db63a442a4)
 #### Azure BOt Secret key and Code:
 ![bot secret code and code](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/dd576d1a-afb0-4a46-98d6-57ad6fc2660a)
+#### Azure Storage Account:
+![Azure storage account](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/76be24cf-468a-4d0a-97c5-cc59b8008298)
+#### Azure Storage Containners:
+![Azure Storage containners](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/3694a841-1391-478b-9b5e-a934d6149883)
+#### Azure storage Symptoms media:
+![Azure storage symtoms media](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/cb81c599-b9df-435c-9570-97fbc3ebe37d)
+#### Symptoms medua Url:
+![symptoms media url](https://github.com/HarshiniSistla10/FRT-ibs/assets/150451739/a1e6a758-0086-4ded-a2a7-4474ddf10002)
+
+
+
 
 
 
