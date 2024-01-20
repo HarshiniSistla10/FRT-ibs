@@ -6,7 +6,7 @@
 ## Azure AI Service : Azure AI bot Service
 ## Project Demo Liks:
 ### Azure Static web app page: https://nice-ocean-03e7b1e10.4.azurestaticapps.net
-### Youtube Deom Video Link: 
+### Youtube Deom Video Link: https://www.youtube.com/watch?v=3Y4xydQPNC4
 ### Github page link: https://harshinisistla10.github.io/FRT-ibs/
 ### Azure Storage screen shots:
 #### Resources Group:
